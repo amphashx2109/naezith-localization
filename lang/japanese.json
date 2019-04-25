@@ -9,8 +9,8 @@
 	"date": "日付",
 	"player": "プレイヤー",
 
-	"auto": "Auto",
-	"paused": "Paused",
+	"auto": "オート",
+	"paused": "ポーズ",
 	"main_menu": "メインメニュー",
 	"purge_the_remnants": "排除開始",
 	"practice_lair": "トレーニング",
@@ -125,8 +125,8 @@
 	"complete_the_chapter": "チャプターをクリア",
 	"complete_a_chapter": "チャプターをクリア",
 
-	"purged": "Purged",
-	"name": "Name",
+	"purged": "排除済み",
+	"name": "名前",
 	"rating": "評価",
 	"rank": "順位",
 	"time": "記録",
@@ -160,8 +160,8 @@
 				"download_ghost": "ゴーストのダウンロード",
 				"always_show_mastery_ghost": "マスタリーゴーストを常に表示",
 				"fade_ghost": "ゴーストをフェードさせる",
-				"shadow_ghost": "ゴーストを黒くする",
-				"short_list": "Short List",
+				"shadow_ghost": "ゴーストを暗色にする",
+				"short_list": "ステージ表示を短くする",
 				"speedrun_levels_listing": "スピードランでのステージ表示"
 			},
 
@@ -189,7 +189,7 @@
 				"windowed_mode_resolution": "ウィンドウ時の解像度",
 				"vertical_sync": "垂直同期",
 				"view_height": "視野の広さ",
-				"rendertexture_height": "Render Texture Height",
+				"rendertexture_height": "",
 				"fps_cap": "フレームレート上限",
 				"show_fps": "フレームレートを表示",
 				"bloom": "ブルーム効果",
@@ -265,7 +265,7 @@
 	"no_record": "記録なし",
 
 	"best": "Best",
-	"best_player": "Best Player",
+	"best_player": "頂点",
 	"next_level": "次のステージへ",
 	"rate_this_level": "このステージを評価",
 	"rated": "評価済み",
@@ -277,7 +277,7 @@
 	"mastery_ghost_is_beaten": "マスタリーゴーストに勝利！",
 
 	"all_levels": "全てのステージ",
-	"everyone": "Everyone",
+	"everyone": "全てのプレイヤー",
 	"sort_property": "並べ替え",
 	"most_played": "最多プレイ",
 	"most_recent": "最近",
